@@ -22,6 +22,7 @@ def plusMinus(arr):
     print("{:.6f}".format(positivos/n))
     print("{:.6f}".format(negativos/n))
     print("{:.6f}".format(ceros/n))
+    
 if __name__ == '__main__':
     n = int(input().strip())
 
