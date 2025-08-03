@@ -8,18 +8,18 @@ class Solution:
             prevMap[n] = i
 
 
-            Arrays, linked lists, stacks, and queues: Understand their basic operations and implementations.  
+# Arrays, linked lists, stacks, and queues: Understand their basic operations and implementations.  
 
-Trees: Basic concepts of binary trees and binary search trees.  
+# Trees: Basic concepts of binary trees and binary search trees.  
 
-Hash Tables: Basic understanding of hashing and basic hash table operations.  
+# Hash Tables: Basic understanding of hashing and basic hash table operations.  
 
-Algorithms:  
+# Algorithms:  
 
-Basic sorting and searching algorithms (e.g., bubble sort, insertion sort, linear search).  
+# Basic sorting and searching algorithms (e.g., bubble sort, insertion sort, linear search).  
 
-Basic understanding of recursion.  
+# Basic understanding of recursion.  
 
-Simple dynamic programming problems.  
+# Simple dynamic programming problems.  
 
-Basic understanding of greedy algorithms.  
+# Basic understanding of greedy algorithms.  
