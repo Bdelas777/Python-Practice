@@ -19,7 +19,6 @@ def search_dec_rotated(nums, target):
                 right = mid - 1
     return -1
 
-    return -1
 
 print(search_dec_rotated([4, 3, 2, 1, 8, 7, 6, 5], 1))  # Expected output: 3
 print(search_dec_rotated([9, 8, 7, 6, 5, 4, 3, 2, 1], 4))  # Expected output: 5
